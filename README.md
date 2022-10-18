@@ -39,6 +39,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
 
 [![@navoda_de_silva's Holopin board](https://holopin.me/navoda_de_silva)](https://holopin.io/@navoda_de_silva)
 
