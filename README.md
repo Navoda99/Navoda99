@@ -40,7 +40,8 @@
 </p>
 
 <hr>
-
+<h4>![image](https://user-images.githubusercontent.com/72874177/196360889-3a8e7332-0b5c-4000-8e67-35b71ce36c3a.png) 
+HACKTOBERFEST</h4>
 [![@navoda_de_silva's Holopin board](https://holopin.me/navoda_de_silva)](https://holopin.io/@navoda_de_silva)
 
 <br>
