@@ -42,7 +42,7 @@
 <hr>
 
 [![@navoda_de_silva's Holopin board](https://holopin.me/navoda_de_silva)](https://holopin.io/@navoda_de_silva)
-
+[![@navoda99's Holopin board](https://holopin.me/navoda99)](https://holopin.io/@navoda99)
 <br>
 
-[![@navoda99's Holopin board](https://holopin.me/navoda99)](https://holopin.io/@navoda99)
+
